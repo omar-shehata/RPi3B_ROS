@@ -8,3 +8,14 @@ This repo will include information related to the installation of ROS (Robot Ope
 
 ## Purpose
 To simplify and document the process of setting up Raspberry Pi and ROS for robotics projects.
+
+raspberry-pi-ros-setup/
+├── README.md
+├── hardware-setup/
+│   └── wiring.md
+├── software-installation/
+│   ├── os-installation.md
+│   ├── ros-installation.md
+│   └── dependencies.md
+└── troubleshooting/
+    └── common-errors.md
